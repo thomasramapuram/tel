@@ -1,0 +1,6 @@
+.idea/
+tellApp.iml
+tellApp.iws
+tellApp.ipr
+target/
+dependency-reduced-pom.xml
